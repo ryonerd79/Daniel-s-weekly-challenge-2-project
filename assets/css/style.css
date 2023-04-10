@@ -1,0 +1,16 @@
+header {
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-nav {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    
+}
+.main-nav li {
+    margin: 50px;
+    
+}
