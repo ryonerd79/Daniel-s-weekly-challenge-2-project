@@ -10,7 +10,17 @@ header {
     list-style: none;
     
 }
+
 .main-nav li {
-    margin: 50px;
+    margin: 28px;
     
 }
+
+.main-page, .profile, .projects, .contact {
+    margin: 550px;
+}
+.profile, .projects, .contact h1  {
+  display: flex;
+  justify-content: center;
+}
+
