@@ -30,7 +30,7 @@ header {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    margin-bottom: 600px;
+    margin-bottom: 550px;
 
 }
 
@@ -67,6 +67,10 @@ img, section h1 {
     margin: 0 auto;
 }
 
-p, section {
-    font-size: 30px;
+section {
+    font-size: 50px;
+}
+
+p {
+    font-size: 20px;
 }
