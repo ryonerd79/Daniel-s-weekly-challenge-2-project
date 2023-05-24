@@ -35,6 +35,10 @@ header h1 {
 
 }
 
+.img-1-link {
+    margin: 434px;
+}
+
 #projects {
     display: flex;
     justify-content: space-between;
