@@ -17,6 +17,12 @@ header {
     flex-wrap: wrap;
   }
 
+@media screen and (max-width: 360px) {
+    header {
+        width: 498px;
+    }
+} 
+
 header h1 {
     font-size: 50px;
 }
@@ -133,6 +139,7 @@ section {
     display: flex;
     justify-content: space-evenly;
     list-style: none;
+    font-size: 30px;
     
 }
 
